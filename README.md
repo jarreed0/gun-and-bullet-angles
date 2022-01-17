@@ -5,4 +5,4 @@ Videos
 
 [Aim Gun At Mouse - Math for Game Dev](https://youtu.be/zezy_QtpQxI)
 
-(https://youtu.be/bJPvWubTOWQ)[Calculate Bullet Trajectory - Math for Game Dev]
+[Calculate Bullet Trajectory - Math for Game Dev](https://youtu.be/bJPvWubTOWQ)
